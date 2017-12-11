@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Cenarios/World0-Berlin_Schutz.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 977cad3cd4c854243ac916b8079eef07
+timeCreated: 1481742166
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AlliedAnimacaoDanoMotorized_0
+    21300002: AlliedAnimacaoDanoMotorized_1
+    21300004: AlliedAnimacaoDanoMotorized_2
+    21300006: AlliedAnimacaoDanoMotorized_3
+    21300008: AlliedAnimacaoDanoMotorized_4
+    21300010: AlliedAnimacaoDanoMotorized_5
+    21300012: AlliedAnimacaoDanoMotorized_6
+    21300014: AlliedAnimacaoDanoMotorized_7
+    21300016: AlliedAnimacaoDanoMotorized_8
+    21300018: AlliedAnimacaoDanoMotorized_9
+    21300020: AlliedAnimacaoDanoMotorized_10
+    21300022: AlliedAnimacaoDanoMotorized_11
+    21300024: AlliedAnimacaoDanoMotorized_12
+    21300026: AlliedAnimacaoDanoMotorized_13
+    21300028: AlliedAnimacaoDanoMotorized_14
+    21300030: AlliedAnimacaoDanoMotorized_15
+    21300032: AlliedAnimacaoDanoMotorized_16
+    21300034: AlliedAnimacaoDanoMotorized_17
+    21300036: AlliedAnimacaoDanoMotorized_18
+    21300038: AlliedAnimacaoDanoMotorized_19
+    21300040: AlliedAnimacaoDanoMotorized_20
+    21300042: AlliedAnimacaoDanoMotorized_21
+    21300044: AlliedAnimacaoDanoMotorized_22
+    21300046: AlliedAnimacaoDanoMotorized_23
+    21300048: AlliedAnimacaoDanoMotorized_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: AlliedAnimacaoDanoMotorized_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3006.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.5, y: 56.92859}
+        - {x: -90.5, y: -56.07141}
+        - {x: -68.5, y: -70.07141}
+        - {x: -12.5, y: -70.07141}
+        - {x: 20.5, y: -66.07141}
+        - {x: 32.5, y: -70.07141}
+        - {x: 76.5, y: -70.07141}
+        - {x: 89.5, y: -58.07141}
+        - {x: 89.5, y: 56.92859}
+    - name: AlliedAnimacaoDanoMotorized_1
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 3006.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74.98801, y: -40.07141}
+        - {x: 74.98801, y: 71.92859}
+        - {x: -105.01199, y: 71.92859}
+        - {x: -105.01199, y: -41.07141}
+        - {x: -83.01199, y: -55.07141}
+        - {x: -56.011993, y: -55.07141}
+        - {x: -53.011993, y: -49.07141}
+        - {x: -21.011993, y: -55.07141}
+        - {x: 47.988007, y: -55.07141}
+    - name: AlliedAnimacaoDanoMotorized_2
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 3006.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57.976013, y: 86.92859}
+        - {x: -117.02399, y: 86.92859}
+        - {x: -119.02399, y: 84.92859}
+        - {x: -119.02399, y: -24.071411}
+        - {x: -117.02399, y: -26.071411}
+        - {x: -96.02399, y: -40.07141}
+        - {x: 42.976013, y: -40.07141}
+        - {x: 57.976013, y: -26.071411}
+        - {x: 59.976013, y: -24.071411}
+        - {x: 59.976013, y: 84.92859}
+    - name: AlliedAnimacaoDanoMotorized_3
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 3006.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -135.03595, y: 100.92859}
+        - {x: -135.03595, y: -11.071411}
+        - {x: -120.03595, y: -26.071411}
+        - {x: -40.03595, y: -26.071411}
+        - {x: -19.03595, y: -21.071411}
+        - {x: -16.03595, y: -26.071411}
+        - {x: 30.96405, y: -26.071411}
+        - {x: 44.96405, y: -22.071411}
+        - {x: 44.96405, y: 100.92859}
+    - name: AlliedAnimacaoDanoMotorized_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2505.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 116.94055}
+        - {x: -146.5, y: 116.94055}
+        - {x: -146.5, y: 3.9405518}
+        - {x: -125.5, y: -10.059448}
+        - {x: 30.5, y: -10.059448}
+        - {x: 30.5, y: 114.94055}
+    - name: AlliedAnimacaoDanoMotorized_5
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 2505.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.988007, y: 116.94055}
+        - {x: -123.01199, y: 116.94055}
+        - {x: -125.01199, y: 114.94055}
+        - {x: -125.01199, y: -4.0594482}
+        - {x: -112.01199, y: -10.059448}
+        - {x: 47.988007, y: -10.059448}
+        - {x: 54.988007, y: -9.059448}
+        - {x: 54.988007, y: 114.94055}
+    - name: AlliedAnimacaoDanoMotorized_6
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 2505.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.023987, y: 121.94055}
+        - {x: -102.02399, y: 116.94055}
+        - {x: -102.02399, y: 4.9405518}
+        - {x: -85.02399, y: -10.059448}
+        - {x: 63.976013, y: -10.059448}
+        - {x: 77.97601, y: 0.94055176}
+        - {x: 77.97601, y: 117.94055}
+        - {x: 31.976013, y: 121.94055}
+    - name: AlliedAnimacaoDanoMotorized_7
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 2505.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79.03595, y: 119.94055}
+        - {x: -79.03595, y: 3.9405518}
+        - {x: -61.03595, y: -10.059448}
+        - {x: 67.96405, y: -10.059448}
+        - {x: 99.96405, y: 4.9405518}
+        - {x: 99.96405, y: 119.94055}
+    - name: AlliedAnimacaoDanoMotorized_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2004.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 124.5, y: 116.452515}
+        - {x: 103.5, y: 120.452515}
+        - {x: -16.5, y: 120.452515}
+        - {x: -55.5, y: 116.452515}
+        - {x: -55.5, y: 5.4525146}
+        - {x: -53.5, y: 3.4525146}
+        - {x: -29.5, y: -10.547485}
+        - {x: 116.5, y: -10.547485}
+        - {x: 124.5, y: 5.4525146}
+    - name: AlliedAnimacaoDanoMotorized_9
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 2004.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.9880066, y: 131.45251}
+        - {x: -32.011993, y: 124.452515}
+        - {x: -32.011993, y: 1.4525146}
+        - {x: -14.011993, y: -10.547485}
+        - {x: 118.98801, y: -10.547485}
+        - {x: 146.988, y: 3.4525146}
+        - {x: 146.988, y: 119.452515}
+        - {x: 131.988, y: 131.45251}
+    - name: AlliedAnimacaoDanoMotorized_10
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 2004.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 124.97601, y: 104.452515}
+        - {x: 78.97601, y: 112.452515}
+        - {x: -10.023987, y: 112.452515}
+        - {x: -55.023987, y: 94.452515}
+        - {x: -55.023987, y: -18.547485}
+        - {x: -28.023987, y: -33.547485}
+        - {x: 96.97601, y: -33.547485}
+        - {x: 103.97601, y: -32.547485}
+        - {x: 124.97601, y: -19.547485}
+    - name: AlliedAnimacaoDanoMotorized_11
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 2004.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.03595, y: 88.452515}
+        - {x: -79.03595, y: 70.452515}
+        - {x: -79.03595, y: -42.547485}
+        - {x: -63.03595, y: -57.547485}
+        - {x: 82.96405, y: -57.547485}
+        - {x: 99.96405, y: -51.547485}
+        - {x: 99.96405, y: 70.452515}
+        - {x: 75.96405, y: 88.452515}
+    - name: AlliedAnimacaoDanoMotorized_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1503.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77.5, y: -64.03552}
+        - {x: 77.5, y: 48.964478}
+        - {x: 40.5, y: 62.964478}
+        - {x: -22.5, y: 62.964478}
+        - {x: -102.5, y: 47.964478}
+        - {x: -102.5, y: -65.03552}
+        - {x: -80.5, y: -79.03552}
+        - {x: -53.5, y: -79.03552}
+        - {x: -50.5, y: -73.03552}
+        - {x: -18.5, y: -79.03552}
+        - {x: 50.5, y: -79.03552}
+    - name: AlliedAnimacaoDanoMotorized_13
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1503.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 143.988, y: -110.03552}
+        - {x: 145.988, y: -112.03552}
+        - {x: 146.988, y: -112.03552}
+        - {x: 146.988, y: 1.9644775}
+        - {x: 143.988, y: 0.96447754}
+      - - {x: 24.988007, y: 39.964478}
+        - {x: -73.01199, y: 39.964478}
+        - {x: -125.01199, y: 28.964478}
+        - {x: -125.01199, y: -89.03552}
+        - {x: -101.01199, y: -102.03552}
+        - {x: 36.988007, y: -102.03552}
+        - {x: 54.988007, y: -87.03552}
+        - {x: 54.988007, y: 24.964478}
+    - name: AlliedAnimacaoDanoMotorized_14
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1503.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.976013, y: 1.9644775}
+        - {x: 7.976013, y: 18.964478}
+        - {x: 4.976013, y: 20.964478}
+        - {x: -74.02399, y: 20.964478}
+        - {x: -146.02399, y: 3.9644775}
+        - {x: -146.02399, y: -112.03552}
+        - {x: -129.02399, y: -126.03552}
+        - {x: -99.02399, y: -126.03552}
+        - {x: -94.02399, y: -125.03552}
+        - {x: -81.02399, y: -126.03552}
+        - {x: 1.9760132, y: -126.03552}
+        - {x: 30.976013, y: -114.03552}
+        - {x: 30.976013, y: -0.03552246}
+    - name: AlliedAnimacaoDanoMotorized_15
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1503.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.96405, y: 13.964478}
+        - {x: -61.03595, y: 13.964478}
+        - {x: -126.03595, y: 1.9644775}
+        - {x: -126.03595, y: -112.03552}
+        - {x: -115.03595, y: -126.03552}
+        - {x: 45.96405, y: -126.03552}
+        - {x: 53.96405, y: -125.03552}
+        - {x: 53.96405, y: 1.9644775}
+    - name: AlliedAnimacaoDanoMotorized_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1002.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.5, y: 13.47644}
+        - {x: -47.5, y: 13.47644}
+        - {x: -102.5, y: 5.4764404}
+        - {x: -102.5, y: -109.52356}
+        - {x: -99.5, y: -112.52356}
+        - {x: -78.5, y: -126.52356}
+        - {x: 53.5, y: -126.52356}
+        - {x: 77.5, y: -112.52356}
+        - {x: 77.5, y: 2.4764404}
+    - name: AlliedAnimacaoDanoMotorized_17
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1002.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83.98801, y: 13.47644}
+        - {x: -31.011993, y: 13.47644}
+        - {x: -78.01199, y: 8.47644}
+        - {x: -78.01199, y: -118.52356}
+        - {x: -59.011993, y: -126.52356}
+        - {x: 78.98801, y: -126.52356}
+        - {x: 100.98801, y: -114.52356}
+        - {x: 100.98801, y: 4.4764404}
+    - name: AlliedAnimacaoDanoMotorized_18
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1002.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 107.97601, y: 12.47644}
+        - {x: -20.023987, y: 12.47644}
+        - {x: -55.023987, y: 9.47644}
+        - {x: -55.023987, y: -113.52356}
+        - {x: -40.023987, y: -126.52356}
+        - {x: 107.97601, y: -126.52356}
+        - {x: 124.97601, y: -115.52356}
+        - {x: 124.97601, y: 1.4764404}
+    - name: AlliedAnimacaoDanoMotorized_19
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1002.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 144.96405, y: 1.4764404}
+        - {x: 115.96405, y: 12.47644}
+        - {x: 37.96405, y: 12.47644}
+        - {x: -32.03595, y: 2.4764404}
+        - {x: -33.03595, y: -0.5235596}
+        - {x: -33.03595, y: -126.52356}
+        - {x: 139.96405, y: -126.52356}
+        - {x: 146.96405, y: -114.52356}
+        - {x: 146.96405, y: 0.47644043}
+    - name: AlliedAnimacaoDanoMotorized_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 501.85715
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 27.988434}
+        - {x: -43.5, y: 12.988434}
+        - {x: -43.5, y: -97.011566}
+        - {x: -41.5, y: -99.011566}
+        - {x: -34.5, y: -113.011566}
+        - {x: 136.5, y: -113.011566}
+        - {x: 136.5, y: 27.988434}
+    - name: AlliedAnimacaoDanoMotorized_21
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 501.85715
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 122.98801, y: 25.988434}
+        - {x: 116.98801, y: 38.988434}
+        - {x: -55.011993, y: 38.988434}
+        - {x: -55.011993, y: -101.011566}
+        - {x: 109.98801, y: -101.011566}
+        - {x: 124.98801, y: -93.011566}
+        - {x: 124.98801, y: 23.988434}
+    - name: AlliedAnimacaoDanoMotorized_22
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 501.85715
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.023987, y: 50.988434}
+        - {x: -67.02399, y: 40.988434}
+        - {x: -67.02399, y: -78.011566}
+        - {x: -63.023987, y: -89.011566}
+        - {x: 112.97601, y: -89.011566}
+        - {x: 112.97601, y: 38.988434}
+        - {x: 89.97601, y: 50.988434}
+    - name: AlliedAnimacaoDanoMotorized_23
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 501.85715
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.03595, y: 61.988434}
+        - {x: -79.03595, y: 50.988434}
+        - {x: -79.03595, y: -65.011566}
+        - {x: -66.03595, y: -78.011566}
+        - {x: 80.96405, y: -78.011566}
+        - {x: 99.96405, y: -65.011566}
+        - {x: 99.96405, y: 61.988434}
+    - name: AlliedAnimacaoDanoMotorized_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.8571472
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.5, y: 60.500412}
+        - {x: -90.5, y: -52.499588}
+        - {x: -79.5, y: -66.49959}
+        - {x: -33.5, y: -66.49959}
+        - {x: -29.5, y: -65.49959}
+        - {x: -22.5, y: -66.49959}
+        - {x: 67.5, y: -66.49959}
+        - {x: 89.5, y: -57.499588}
+        - {x: 89.5, y: 60.500412}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

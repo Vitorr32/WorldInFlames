@@ -1,0 +1,551 @@
+fileFormatVersion: 2
+guid: 028dc7cf57f3c6c4fa4e9bda6b757021
+timeCreated: 1481742219
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AlliedAnimacaoDanoSPArtillery_0
+    21300002: AlliedAnimacaoDanoSPArtillery_1
+    21300004: AlliedAnimacaoDanoSPArtillery_2
+    21300006: AlliedAnimacaoDanoSPArtillery_3
+    21300008: AlliedAnimacaoDanoSPArtillery_4
+    21300010: AlliedAnimacaoDanoSPArtillery_5
+    21300012: AlliedAnimacaoDanoSPArtillery_6
+    21300014: AlliedAnimacaoDanoSPArtillery_7
+    21300016: AlliedAnimacaoDanoSPArtillery_8
+    21300018: AlliedAnimacaoDanoSPArtillery_9
+    21300020: AlliedAnimacaoDanoSPArtillery_10
+    21300022: AlliedAnimacaoDanoSPArtillery_11
+    21300024: AlliedAnimacaoDanoSPArtillery_12
+    21300026: AlliedAnimacaoDanoSPArtillery_13
+    21300028: AlliedAnimacaoDanoSPArtillery_14
+    21300030: AlliedAnimacaoDanoSPArtillery_15
+    21300032: AlliedAnimacaoDanoSPArtillery_16
+    21300034: AlliedAnimacaoDanoSPArtillery_17
+    21300036: AlliedAnimacaoDanoSPArtillery_18
+    21300038: AlliedAnimacaoDanoSPArtillery_19
+    21300040: AlliedAnimacaoDanoSPArtillery_20
+    21300042: AlliedAnimacaoDanoSPArtillery_21
+    21300044: AlliedAnimacaoDanoSPArtillery_22
+    21300046: AlliedAnimacaoDanoSPArtillery_23
+    21300048: AlliedAnimacaoDanoSPArtillery_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: AlliedAnimacaoDanoSPArtillery_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3006.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 89.5, y: 57.92859}
+        - {x: -90.5, y: 57.92859}
+        - {x: -90.5, y: -55.07141}
+        - {x: -73.5, y: -69.07141}
+        - {x: 72.5, y: -69.07141}
+        - {x: 89.5, y: -56.07141}
+    - name: AlliedAnimacaoDanoSPArtillery_1
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 3006.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74.98801, y: 72.92859}
+        - {x: -105.01199, y: 72.92859}
+        - {x: -105.01199, y: -41.07141}
+        - {x: -81.01199, y: -54.07141}
+        - {x: 49.988007, y: -54.07141}
+        - {x: 74.98801, y: -40.07141}
+    - name: AlliedAnimacaoDanoSPArtillery_2
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 3006.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.976013, y: 86.92859}
+        - {x: -119.02399, y: 86.92859}
+        - {x: -119.02399, y: -31.071411}
+        - {x: -97.02399, y: -40.07141}
+        - {x: 37.976013, y: -40.07141}
+        - {x: 57.976013, y: -26.071411}
+        - {x: 59.976013, y: -24.071411}
+    - name: AlliedAnimacaoDanoSPArtillery_3
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 3006.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -135.03595, y: 101.92859}
+        - {x: -135.03595, y: -9.071411}
+        - {x: -118.03595, y: -26.071411}
+        - {x: 30.96405, y: -26.071411}
+        - {x: 44.96405, y: -11.071411}
+        - {x: 44.96405, y: 101.92859}
+    - name: AlliedAnimacaoDanoSPArtillery_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2505.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 117.94055}
+        - {x: -146.5, y: 117.94055}
+        - {x: -146.5, y: 4.9405518}
+        - {x: -123.5, y: -9.059448}
+        - {x: 6.5, y: -9.059448}
+        - {x: 30.5, y: 4.9405518}
+        - {x: 30.5, y: 115.94055}
+    - name: AlliedAnimacaoDanoSPArtillery_5
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 2505.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.988007, y: 117.94055}
+        - {x: -125.01199, y: 117.94055}
+        - {x: -125.01199, y: -1.0594482}
+        - {x: -123.01199, y: -9.059448}
+        - {x: 38.988007, y: -9.059448}
+        - {x: 54.988007, y: 4.9405518}
+        - {x: 54.988007, y: 115.94055}
+    - name: AlliedAnimacaoDanoSPArtillery_6
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 2505.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.023987, y: 122.94055}
+        - {x: -102.02399, y: 117.94055}
+        - {x: -102.02399, y: 5.9405518}
+        - {x: -84.02399, y: -9.059448}
+        - {x: 58.976013, y: -9.059448}
+        - {x: 77.97601, y: 1.9405518}
+        - {x: 77.97601, y: 121.94055}
+        - {x: 49.976013, y: 122.94055}
+    - name: AlliedAnimacaoDanoSPArtillery_7
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 2505.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.03595, y: 120.94055}
+        - {x: -79.03595, y: 117.94055}
+        - {x: -79.03595, y: 4.9405518}
+        - {x: -62.03595, y: -9.059448}
+        - {x: 86.96405, y: -9.059448}
+        - {x: 99.96405, y: 1.9405518}
+        - {x: 99.96405, y: 117.94055}
+        - {x: 79.96405, y: 120.94055}
+    - name: AlliedAnimacaoDanoSPArtillery_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2004.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 122.452515}
+        - {x: -55.5, y: 118.452515}
+        - {x: -55.5, y: 7.4525146}
+        - {x: -44.5, y: -9.547485}
+        - {x: 115.5, y: -9.547485}
+        - {x: 124.5, y: 3.4525146}
+        - {x: 124.5, y: 122.452515}
+    - name: AlliedAnimacaoDanoSPArtillery_9
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 2004.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.988007, y: 133.45251}
+        - {x: -32.011993, y: 118.452515}
+        - {x: -32.011993, y: -2.5474854}
+        - {x: -5.0119934, y: -9.547485}
+        - {x: 121.98801, y: -9.547485}
+        - {x: 146.988, y: -2.5474854}
+        - {x: 146.988, y: 119.452515}
+        - {x: 108.98801, y: 133.45251}
+    - name: AlliedAnimacaoDanoSPArtillery_10
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 2004.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98.97601, y: 113.452515}
+        - {x: 6.976013, y: 113.452515}
+        - {x: -55.023987, y: 102.452515}
+        - {x: -55.023987, y: -21.547485}
+        - {x: -31.023987, y: -32.547485}
+        - {x: 97.97601, y: -32.547485}
+        - {x: 124.97601, y: -18.547485}
+        - {x: 124.97601, y: 96.452515}
+    - name: AlliedAnimacaoDanoSPArtillery_11
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 2004.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.03595, y: 89.452515}
+        - {x: -79.03595, y: 80.452515}
+        - {x: -79.03595, y: -40.547485}
+        - {x: -56.03595, y: -56.547485}
+        - {x: 82.96405, y: -56.547485}
+        - {x: 99.96405, y: -45.547485}
+        - {x: 99.96405, y: 72.452515}
+        - {x: 68.96405, y: 89.452515}
+    - name: AlliedAnimacaoDanoSPArtillery_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1503.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.5, y: 65.96448}
+        - {x: -58.5, y: 65.96448}
+        - {x: -102.5, y: 58.964478}
+        - {x: -102.5, y: -63.035522}
+        - {x: -83.5, y: -77.03552}
+        - {x: 59.5, y: -77.03552}
+        - {x: 77.5, y: -71.03552}
+        - {x: 77.5, y: 52.964478}
+    - name: AlliedAnimacaoDanoSPArtillery_13
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1503.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 143.988, y: -107.03552}
+        - {x: 145.988, y: -109.03552}
+        - {x: 146.988, y: -109.03552}
+        - {x: 146.988, y: 3.9644775}
+        - {x: 143.988, y: 2.9644775}
+      - - {x: 16.988007, y: 41.964478}
+        - {x: -73.01199, y: 41.964478}
+        - {x: -125.01199, y: 32.964478}
+        - {x: -125.01199, y: -85.03552}
+        - {x: -109.01199, y: -100.03552}
+        - {x: 43.988007, y: -100.03552}
+        - {x: 54.988007, y: -88.03552}
+        - {x: 54.988007, y: 29.964478}
+    - name: AlliedAnimacaoDanoSPArtillery_14
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1503.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.9760132, y: 23.964478}
+        - {x: -95.02399, y: 23.964478}
+        - {x: -146.02399, y: 10.964478}
+        - {x: -146.02399, y: -109.03552}
+        - {x: -123.02399, y: -123.03552}
+        - {x: 19.976013, y: -123.03552}
+        - {x: 30.976013, y: -110.03552}
+        - {x: 30.976013, y: 5.9644775}
+    - name: AlliedAnimacaoDanoSPArtillery_15
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1503.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.96405, y: 15.964478}
+        - {x: -55.03595, y: 15.964478}
+        - {x: -126.03595, y: 3.9644775}
+        - {x: -126.03595, y: -109.03552}
+        - {x: -109.03595, y: -123.03552}
+        - {x: 34.96405, y: -123.03552}
+        - {x: 53.96405, y: -111.03552}
+        - {x: 53.96405, y: 5.9644775}
+    - name: AlliedAnimacaoDanoSPArtillery_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1002.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 16.47644}
+        - {x: -102.5, y: 8.47644}
+        - {x: -102.5, y: -109.52356}
+        - {x: -81.5, y: -123.52356}
+        - {x: 53.5, y: -123.52356}
+        - {x: 77.5, y: -117.52356}
+        - {x: 77.5, y: 5.4764404}
+        - {x: 45.5, y: 16.47644}
+    - name: AlliedAnimacaoDanoSPArtillery_17
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1002.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.98801, y: 16.47644}
+        - {x: -41.011993, y: 16.47644}
+        - {x: -78.01199, y: 11.47644}
+        - {x: -78.01199, y: -111.52356}
+        - {x: -52.011993, y: -123.52356}
+        - {x: 77.98801, y: -123.52356}
+        - {x: 100.98801, y: -109.52356}
+        - {x: 100.98801, y: 4.4764404}
+    - name: AlliedAnimacaoDanoSPArtillery_18
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1002.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 103.97601, y: 15.47644}
+        - {x: 2.9760132, y: 15.47644}
+        - {x: -55.023987, y: 4.4764404}
+        - {x: -55.023987, y: -113.52356}
+        - {x: -30.023987, y: -123.52356}
+        - {x: 107.97601, y: -123.52356}
+        - {x: 124.97601, y: -110.52356}
+        - {x: 124.97601, y: 9.47644}
+    - name: AlliedAnimacaoDanoSPArtillery_19
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1002.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.03595, y: 15.47644}
+        - {x: -33.03595, y: 6.4764404}
+        - {x: -33.03595, y: -110.52356}
+        - {x: -30.03595, y: -123.52356}
+        - {x: 137.96405, y: -123.52356}
+        - {x: 146.96405, y: -113.52356}
+        - {x: 146.96405, y: 15.47644}
+    - name: AlliedAnimacaoDanoSPArtillery_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 501.85715
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 117.5, y: 31.988434}
+        - {x: 3.5, y: 31.988434}
+        - {x: -43.5, y: 23.988434}
+        - {x: -43.5, y: -94.011566}
+        - {x: -24.5, y: -109.011566}
+        - {x: 132.5, y: -109.011566}
+        - {x: 136.5, y: -96.011566}
+        - {x: 136.5, y: 18.988434}
+        - {x: 135.5, y: 18.988434}
+    - name: AlliedAnimacaoDanoSPArtillery_21
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 501.85715
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.011993, y: 41.988434}
+        - {x: -55.011993, y: 32.988434}
+        - {x: -55.011993, y: -85.011566}
+        - {x: -45.011993, y: -98.011566}
+        - {x: 117.98801, y: -98.011566}
+        - {x: 124.98801, y: -94.011566}
+        - {x: 124.98801, y: 40.988434}
+        - {x: 120.98801, y: 41.988434}
+    - name: AlliedAnimacaoDanoSPArtillery_22
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 501.85715
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 110.97601, y: 40.988434}
+        - {x: 89.97601, y: 54.988434}
+        - {x: -2.0239868, y: 54.988434}
+        - {x: -67.02399, y: 45.988434}
+        - {x: -67.02399, y: -74.011566}
+        - {x: -51.023987, y: -86.011566}
+        - {x: 111.97601, y: -86.011566}
+        - {x: 112.97601, y: -80.011566}
+        - {x: 112.97601, y: 40.988434}
+    - name: AlliedAnimacaoDanoSPArtillery_23
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 501.85715
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86.96405, y: 64.988434}
+        - {x: -48.03595, y: 64.988434}
+        - {x: -79.03595, y: 52.988434}
+        - {x: -79.03595, y: -67.011566}
+        - {x: -62.03595, y: -74.011566}
+        - {x: 92.96405, y: -74.011566}
+        - {x: 99.96405, y: -72.011566}
+        - {x: 99.96405, y: 54.988434}
+    - name: AlliedAnimacaoDanoSPArtillery_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.8571472
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.5, y: 64.50041}
+        - {x: -90.5, y: -47.499588}
+        - {x: -66.5, y: -62.499588}
+        - {x: 72.5, y: -62.499588}
+        - {x: 89.5, y: -49.499588}
+        - {x: 89.5, y: 64.50041}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

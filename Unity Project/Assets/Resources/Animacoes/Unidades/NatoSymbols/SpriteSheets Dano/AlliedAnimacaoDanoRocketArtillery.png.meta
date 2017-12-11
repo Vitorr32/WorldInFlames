@@ -1,0 +1,539 @@
+fileFormatVersion: 2
+guid: 4618ea0cba0e57c4f9018b66c6b11757
+timeCreated: 1481742179
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AlliedAnimacaoDanoRocketArtillery_0
+    21300002: AlliedAnimacaoDanoRocketArtillery_1
+    21300004: AlliedAnimacaoDanoRocketArtillery_2
+    21300006: AlliedAnimacaoDanoRocketArtillery_3
+    21300008: AlliedAnimacaoDanoRocketArtillery_4
+    21300010: AlliedAnimacaoDanoRocketArtillery_5
+    21300012: AlliedAnimacaoDanoRocketArtillery_6
+    21300014: AlliedAnimacaoDanoRocketArtillery_7
+    21300016: AlliedAnimacaoDanoRocketArtillery_8
+    21300018: AlliedAnimacaoDanoRocketArtillery_9
+    21300020: AlliedAnimacaoDanoRocketArtillery_10
+    21300022: AlliedAnimacaoDanoRocketArtillery_11
+    21300024: AlliedAnimacaoDanoRocketArtillery_12
+    21300026: AlliedAnimacaoDanoRocketArtillery_13
+    21300028: AlliedAnimacaoDanoRocketArtillery_14
+    21300030: AlliedAnimacaoDanoRocketArtillery_15
+    21300032: AlliedAnimacaoDanoRocketArtillery_16
+    21300034: AlliedAnimacaoDanoRocketArtillery_17
+    21300036: AlliedAnimacaoDanoRocketArtillery_18
+    21300038: AlliedAnimacaoDanoRocketArtillery_19
+    21300040: AlliedAnimacaoDanoRocketArtillery_20
+    21300042: AlliedAnimacaoDanoRocketArtillery_21
+    21300044: AlliedAnimacaoDanoRocketArtillery_22
+    21300046: AlliedAnimacaoDanoRocketArtillery_23
+    21300048: AlliedAnimacaoDanoRocketArtillery_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: AlliedAnimacaoDanoRocketArtillery_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3006.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -88.5, y: 56.92859}
+        - {x: -90.5, y: 54.92859}
+        - {x: -90.5, y: -53.07141}
+        - {x: -88.5, y: -55.07141}
+        - {x: -22.5, y: -57.07141}
+        - {x: 89.5, y: -57.07141}
+        - {x: 89.5, y: 56.92859}
+    - name: AlliedAnimacaoDanoRocketArtillery_1
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 3006.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -105.01199, y: 71.92859}
+        - {x: -105.01199, y: -39.07141}
+        - {x: -103.01199, y: -41.07141}
+        - {x: 72.98801, y: -41.07141}
+        - {x: 74.98801, y: -39.07141}
+        - {x: 74.98801, y: 71.92859}
+    - name: AlliedAnimacaoDanoRocketArtillery_2
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 3006.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -117.02399, y: 86.92859}
+        - {x: -119.02399, y: 84.92859}
+        - {x: -119.02399, y: -24.071411}
+        - {x: -117.02399, y: -26.071411}
+        - {x: 57.976013, y: -26.071411}
+        - {x: 59.976013, y: -24.071411}
+        - {x: 59.976013, y: 84.92859}
+        - {x: 57.976013, y: 86.92859}
+    - name: AlliedAnimacaoDanoRocketArtillery_3
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 3006.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -133.03595, y: 100.92859}
+        - {x: -135.03595, y: 98.92859}
+        - {x: -135.03595, y: -12.071411}
+        - {x: 44.96405, y: -12.071411}
+        - {x: 44.96405, y: 98.92859}
+        - {x: 42.96405, y: 100.92859}
+    - name: AlliedAnimacaoDanoRocketArtillery_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2505.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.5, y: 117.94055}
+        - {x: -146.5, y: 4.9405518}
+        - {x: 28.5, y: 4.9405518}
+        - {x: 30.5, y: 6.9405518}
+        - {x: 30.5, y: 115.94055}
+        - {x: 28.5, y: 117.94055}
+    - name: AlliedAnimacaoDanoRocketArtillery_5
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 2505.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123.01199, y: 117.94055}
+        - {x: -125.01199, y: 115.94055}
+        - {x: -125.01199, y: 4.9405518}
+        - {x: 54.988007, y: 4.9405518}
+        - {x: 54.988007, y: 115.94055}
+        - {x: 52.988007, y: 117.94055}
+    - name: AlliedAnimacaoDanoRocketArtillery_6
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 2505.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69.97601, y: 121.94055}
+        - {x: -59.023987, y: 121.94055}
+        - {x: -102.02399, y: 117.94055}
+        - {x: -102.02399, y: 4.9405518}
+        - {x: 77.97601, y: 4.9405518}
+        - {x: 77.97601, y: 120.94055}
+    - name: AlliedAnimacaoDanoRocketArtillery_7
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 2505.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99.96405, y: 120.94055}
+        - {x: -79.03595, y: 120.94055}
+        - {x: -79.03595, y: 6.9405518}
+        - {x: -77.03595, y: 4.9405518}
+        - {x: 97.96405, y: 4.9405518}
+        - {x: 99.96405, y: 6.9405518}
+    - name: AlliedAnimacaoDanoRocketArtillery_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2004.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 121.452515}
+        - {x: -55.5, y: 117.452515}
+        - {x: -55.5, y: 4.4525146}
+        - {x: 124.5, y: 4.4525146}
+        - {x: 124.5, y: 117.452515}
+        - {x: 103.5, y: 121.452515}
+    - name: AlliedAnimacaoDanoRocketArtillery_9
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 2004.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.988007, y: 132.45251}
+        - {x: 43.988007, y: 131.45251}
+        - {x: -32.011993, y: 117.452515}
+        - {x: -32.011993, y: 4.4525146}
+        - {x: 146.988, y: 4.4525146}
+        - {x: 146.988, y: 117.452515}
+        - {x: 104.98801, y: 132.45251}
+    - name: AlliedAnimacaoDanoRocketArtillery_10
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 2004.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49.976013, y: 113.452515}
+        - {x: 45.976013, y: 110.452515}
+        - {x: 24.976013, y: 110.452515}
+        - {x: -55.023987, y: 96.452515}
+        - {x: -55.023987, y: -18.547485}
+        - {x: 124.97601, y: -18.547485}
+        - {x: 124.97601, y: 94.452515}
+        - {x: 89.97601, y: 113.452515}
+    - name: AlliedAnimacaoDanoRocketArtillery_11
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 2004.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 84.96405, y: 89.452515}
+        - {x: -39.03595, y: 89.452515}
+        - {x: -79.03595, y: 76.452515}
+        - {x: -79.03595, y: -39.547485}
+        - {x: -77.03595, y: -41.547485}
+        - {x: 97.96405, y: -41.547485}
+        - {x: 99.96405, y: -39.547485}
+        - {x: 99.96405, y: 73.452515}
+    - name: AlliedAnimacaoDanoRocketArtillery_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1503.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54.5, y: 64.96448}
+        - {x: -47.5, y: 64.96448}
+        - {x: -102.5, y: 56.964478}
+        - {x: -102.5, y: -61.035522}
+        - {x: -100.5, y: -63.035522}
+        - {x: 75.5, y: -63.035522}
+        - {x: 77.5, y: -61.035522}
+        - {x: 77.5, y: 49.964478}
+    - name: AlliedAnimacaoDanoRocketArtillery_13
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1503.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 143.988, y: -108.03552}
+        - {x: 145.988, y: -110.03552}
+        - {x: 146.988, y: -110.03552}
+        - {x: 146.988, y: 3.9644775}
+        - {x: 143.988, y: 2.9644775}
+      - - {x: 20.988007, y: 41.964478}
+        - {x: -64.01199, y: 41.964478}
+        - {x: -125.01199, y: 30.964478}
+        - {x: -125.01199, y: -85.03552}
+        - {x: -123.01199, y: -87.03552}
+        - {x: 54.988007, y: -87.03552}
+        - {x: 54.988007, y: 27.964478}
+        - {x: 53.988007, y: 27.964478}
+    - name: AlliedAnimacaoDanoRocketArtillery_14
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1503.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.02399, y: 22.964478}
+        - {x: -146.02399, y: 3.9644775}
+        - {x: -146.02399, y: -110.03552}
+        - {x: 30.976013, y: -110.03552}
+        - {x: 30.976013, y: 6.9644775}
+        - {x: 4.976013, y: 22.964478}
+    - name: AlliedAnimacaoDanoRocketArtillery_15
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1503.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.96405, y: 15.964478}
+        - {x: -78.03595, y: 15.964478}
+        - {x: -126.03595, y: 8.964478}
+        - {x: -126.03595, y: -108.03552}
+        - {x: -124.03595, y: -110.03552}
+        - {x: 51.96405, y: -110.03552}
+        - {x: 53.96405, y: -108.03552}
+        - {x: 53.96405, y: 3.9644775}
+    - name: AlliedAnimacaoDanoRocketArtillery_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1002.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.5, y: 15.47644}
+        - {x: -41.5, y: 15.47644}
+        - {x: -102.5, y: 4.4764404}
+        - {x: -102.5, y: -107.52356}
+        - {x: -100.5, y: -109.52356}
+        - {x: 75.5, y: -109.52356}
+        - {x: 77.5, y: -108.52356}
+        - {x: 77.5, y: 6.4764404}
+    - name: AlliedAnimacaoDanoRocketArtillery_17
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1002.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74.98801, y: 16.47644}
+        - {x: -40.011993, y: 16.47644}
+        - {x: -78.01199, y: 9.47644}
+        - {x: -78.01199, y: -107.52356}
+        - {x: -76.01199, y: -109.52356}
+        - {x: 98.98801, y: -109.52356}
+        - {x: 100.98801, y: -107.52356}
+        - {x: 100.98801, y: 4.4764404}
+    - name: AlliedAnimacaoDanoRocketArtillery_18
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1002.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96.97601, y: 14.47644}
+        - {x: -18.023987, y: 14.47644}
+        - {x: -55.023987, y: 9.47644}
+        - {x: -55.023987, y: -107.52356}
+        - {x: -53.023987, y: -109.52356}
+        - {x: 122.97601, y: -109.52356}
+        - {x: 124.97601, y: -108.52356}
+        - {x: 124.97601, y: 5.4764404}
+    - name: AlliedAnimacaoDanoRocketArtillery_19
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1002.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.96405, y: 14.47644}
+        - {x: 16.96405, y: 7.4764404}
+        - {x: -33.03595, y: 4.4764404}
+        - {x: -33.03595, y: -109.52356}
+        - {x: 146.96405, y: -109.52356}
+        - {x: 146.96405, y: 5.4764404}
+        - {x: 119.96405, y: 14.47644}
+    - name: AlliedAnimacaoDanoRocketArtillery_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 501.85715
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: 30.988434}
+        - {x: 3.5, y: 25.988434}
+        - {x: -41.5, y: 16.988434}
+        - {x: -43.5, y: 14.988434}
+        - {x: -43.5, y: -96.011566}
+        - {x: 136.5, y: -96.011566}
+        - {x: 136.5, y: 15.988434}
+        - {x: 115.5, y: 30.988434}
+    - name: AlliedAnimacaoDanoRocketArtillery_21
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 501.85715
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 89.98801, y: 41.988434}
+        - {x: 34.988007, y: 41.988434}
+        - {x: -11.011993, y: 37.988434}
+        - {x: -55.011993, y: 28.988434}
+        - {x: -55.011993, y: -84.011566}
+        - {x: 124.98801, y: -84.011566}
+        - {x: 124.98801, y: 29.988434}
+    - name: AlliedAnimacaoDanoRocketArtillery_22
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 501.85715
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 105.97601, y: 53.988434}
+        - {x: -33.023987, y: 53.988434}
+        - {x: -67.02399, y: 40.988434}
+        - {x: -67.02399, y: -70.011566}
+        - {x: -65.02399, y: -72.011566}
+        - {x: 110.97601, y: -72.011566}
+        - {x: 112.97601, y: -70.011566}
+        - {x: 112.97601, y: 51.988434}
+    - name: AlliedAnimacaoDanoRocketArtillery_23
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 501.85715
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.03595, y: 64.988434}
+        - {x: -78.03595, y: 52.988434}
+        - {x: -79.03595, y: 51.988434}
+        - {x: -79.03595, y: -60.011566}
+        - {x: 99.96405, y: -60.011566}
+        - {x: 99.96405, y: 59.988434}
+        - {x: 83.96405, y: 64.988434}
+    - name: AlliedAnimacaoDanoRocketArtillery_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.8571472
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.5, y: 63.500412}
+        - {x: -90.5, y: -46.499588}
+        - {x: -88.5, y: -48.499588}
+        - {x: 87.5, y: -48.499588}
+        - {x: 89.5, y: -46.499588}
+        - {x: 89.5, y: 63.500412}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

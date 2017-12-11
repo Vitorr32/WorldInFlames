@@ -1,0 +1,643 @@
+fileFormatVersion: 2
+guid: 47f1b0e2e331d3c459d1a7179a2f8724
+timeCreated: 1481742297
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: EnemyAnimacaoDanoAntiTank_0
+    21300002: EnemyAnimacaoDanoAntiTank_1
+    21300004: EnemyAnimacaoDanoAntiTank_2
+    21300006: EnemyAnimacaoDanoAntiTank_3
+    21300008: EnemyAnimacaoDanoAntiTank_4
+    21300010: EnemyAnimacaoDanoAntiTank_5
+    21300012: EnemyAnimacaoDanoAntiTank_6
+    21300014: EnemyAnimacaoDanoAntiTank_7
+    21300016: EnemyAnimacaoDanoAntiTank_8
+    21300018: EnemyAnimacaoDanoAntiTank_9
+    21300020: EnemyAnimacaoDanoAntiTank_10
+    21300022: EnemyAnimacaoDanoAntiTank_11
+    21300024: EnemyAnimacaoDanoAntiTank_12
+    21300026: EnemyAnimacaoDanoAntiTank_13
+    21300028: EnemyAnimacaoDanoAntiTank_14
+    21300030: EnemyAnimacaoDanoAntiTank_15
+    21300032: EnemyAnimacaoDanoAntiTank_16
+    21300034: EnemyAnimacaoDanoAntiTank_17
+    21300036: EnemyAnimacaoDanoAntiTank_18
+    21300038: EnemyAnimacaoDanoAntiTank_19
+    21300040: EnemyAnimacaoDanoAntiTank_20
+    21300042: EnemyAnimacaoDanoAntiTank_21
+    21300044: EnemyAnimacaoDanoAntiTank_22
+    21300046: EnemyAnimacaoDanoAntiTank_23
+    21300048: EnemyAnimacaoDanoAntiTank_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: EnemyAnimacaoDanoAntiTank_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3006.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: -146.07141}
+        - {x: -56.5, y: -144.07141}
+        - {x: -59.5, y: -143.07141}
+        - {x: -61.5, y: -146.07141}
+      - - {x: -1.5, y: 90.92859}
+        - {x: -90.5, y: 1.9285889}
+        - {x: -90.5, y: -0.07141113}
+        - {x: -1.5, y: -89.07141}
+        - {x: 0.5, y: -89.07141}
+        - {x: 89.5, y: -0.07141113}
+        - {x: 89.5, y: 1.9285889}
+        - {x: 0.5, y: 90.92859}
+    - name: EnemyAnimacaoDanoAntiTank_1
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 3006.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.011993, y: -146.07141}
+        - {x: -32.011993, y: -144.07141}
+        - {x: -35.011993, y: -143.07141}
+        - {x: -37.011993, y: -146.07141}
+      - - {x: -14.011993, y: 105.92859}
+        - {x: -17.011993, y: 105.92859}
+        - {x: -104.01199, y: 23.928589}
+        - {x: -104.01199, y: 13.928589}
+        - {x: -84.01199, y: -15.071411}
+        - {x: -16.011993, y: -74.07141}
+        - {x: -7.0119934, y: -74.07141}
+        - {x: 75.98801, y: 14.928589}
+        - {x: 75.98801, y: 22.928589}
+        - {x: -9.011993, y: 103.92859}
+    - name: EnemyAnimacaoDanoAntiTank_2
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 3006.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.023987, y: -146.07141}
+        - {x: -9.023987, y: -143.07141}
+        - {x: -13.023987, y: -143.07141}
+        - {x: -14.023987, y: -146.07141}
+      - - {x: -27.023987, y: 119.92859}
+        - {x: -30.023987, y: 119.92859}
+        - {x: -118.02399, y: 31.928589}
+        - {x: -118.02399, y: 28.928589}
+        - {x: -29.023987, y: -60.07141}
+        - {x: -27.023987, y: -60.07141}
+        - {x: -15.023987, y: -55.07141}
+        - {x: 61.976013, y: 28.928589}
+        - {x: 61.976013, y: 36.92859}
+    - name: EnemyAnimacaoDanoAntiTank_3
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 3006.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.96405, y: -146.07141}
+        - {x: 13.96405, y: -143.07141}
+        - {x: 9.96405, y: -143.07141}
+        - {x: 8.96405, y: -146.07141}
+      - - {x: -50.03595, y: 134.92859}
+        - {x: -133.03595, y: 45.92859}
+        - {x: -133.03595, y: 35.92859}
+        - {x: -49.03595, y: -45.07141}
+        - {x: -42.03595, y: -45.07141}
+        - {x: 46.96405, y: 40.92859}
+        - {x: 46.96405, y: 46.92859}
+        - {x: -42.03595, y: 134.92859}
+    - name: EnemyAnimacaoDanoAntiTank_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2505.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: -146.05945}
+        - {x: 36.5, y: -143.05945}
+        - {x: 32.5, y: -143.05945}
+        - {x: 31.5, y: -146.05945}
+      - - {x: -136.5, y: 80.94055}
+        - {x: -146.5, y: 64.94055}
+        - {x: -146.5, y: 48.94055}
+        - {x: -66.5, y: -30.059448}
+        - {x: -55.5, y: -30.059448}
+        - {x: 30.5, y: 50.94055}
+        - {x: 30.5, y: 63.94055}
+        - {x: 28.5, y: 66.94055}
+        - {x: -48.5, y: 147.94055}
+        - {x: -64.5, y: 147.94055}
+        - {x: -78.5, y: 140.94055}
+    - name: EnemyAnimacaoDanoAntiTank_5
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 2505.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61.988007, y: -146.05945}
+        - {x: 60.988007, y: -143.05945}
+        - {x: 55.988007, y: -143.05945}
+        - {x: 54.988007, y: -146.05945}
+      - - {x: -15.011993, y: 147.94055}
+        - {x: -66.01199, y: 147.94055}
+        - {x: -123.01199, y: 63.94055}
+        - {x: -124.01199, y: 61.94055}
+        - {x: -124.01199, y: 53.94055}
+        - {x: -37.011993, y: -30.059448}
+        - {x: -28.011993, y: -30.059448}
+        - {x: 54.988007, y: 45.94055}
+        - {x: 54.988007, y: 70.94055}
+        - {x: 21.988007, y: 138.94055}
+    - name: EnemyAnimacaoDanoAntiTank_6
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 2505.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.023987, y: 147.94055}
+        - {x: -15.023987, y: 147.94055}
+        - {x: -101.02399, y: 61.94055}
+        - {x: -101.02399, y: 58.94055}
+        - {x: -12.023987, y: -30.059448}
+        - {x: -10.023987, y: -30.059448}
+        - {x: 78.97601, y: 53.94055}
+        - {x: 78.97601, y: 61.94055}
+        - {x: 30.976013, y: 126.94055}
+    - name: EnemyAnimacaoDanoAntiTank_7
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 2505.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.96405, y: 147.94055}
+        - {x: 2.9640503, y: 147.94055}
+        - {x: -78.03595, y: 60.94055}
+        - {x: -78.03595, y: 57.94055}
+        - {x: 10.96405, y: -30.059448}
+        - {x: 18.96405, y: -30.059448}
+        - {x: 101.96405, y: 57.94055}
+        - {x: 101.96405, y: 67.94055}
+        - {x: 53.96405, y: 123.94055}
+    - name: EnemyAnimacaoDanoAntiTank_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2004.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.5, y: 147.45251}
+        - {x: 28.5, y: 147.45251}
+        - {x: -55.5, y: 70.452515}
+        - {x: -55.5, y: 28.452515}
+        - {x: 26.5, y: -30.547485}
+        - {x: 61.5, y: -30.547485}
+        - {x: 124.5, y: 52.452515}
+        - {x: 124.5, y: 66.452515}
+        - {x: 74.5, y: 120.452515}
+    - name: EnemyAnimacaoDanoAntiTank_9
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 2004.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75.98801, y: 147.45251}
+        - {x: 49.988007, y: 147.45251}
+        - {x: -31.011993, y: 61.452515}
+        - {x: -31.011993, y: 52.452515}
+        - {x: 3.9880066, y: 10.452515}
+        - {x: 55.988007, y: -30.547485}
+        - {x: 65.98801, y: -30.547485}
+        - {x: 146.988, y: 38.452515}
+        - {x: 146.988, y: 73.452515}
+        - {x: 94.98801, y: 142.45251}
+    - name: EnemyAnimacaoDanoAntiTank_10
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 2004.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.976013, y: 125.452515}
+        - {x: 28.976013, y: 125.452515}
+        - {x: -54.023987, y: 46.452515}
+        - {x: -54.023987, y: 33.452515}
+        - {x: -16.023987, y: -16.547485}
+        - {x: 29.976013, y: -54.547485}
+        - {x: 37.976013, y: -54.547485}
+        - {x: 89.97601, y: -15.547485}
+        - {x: 125.97601, y: 33.452515}
+        - {x: 125.97601, y: 45.452515}
+        - {x: 94.97601, y: 115.452515}
+      - - {x: -143.02399, y: 57.452515}
+        - {x: -143.02399, y: 60.452515}
+        - {x: -146.02399, y: 61.452515}
+        - {x: -146.02399, y: 56.452515}
+    - name: EnemyAnimacaoDanoAntiTank_11
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 2004.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.96405, y: 89.452515}
+        - {x: 39.96405, y: 84.452515}
+        - {x: 14.96405, y: 102.452515}
+        - {x: 2.9640503, y: 102.452515}
+        - {x: -39.03595, y: 65.452515}
+        - {x: -78.03595, y: 17.452515}
+        - {x: -78.03595, y: 10.452515}
+        - {x: -47.03595, y: -34.547485}
+        - {x: 9.96405, y: -77.547485}
+        - {x: 21.96405, y: -77.547485}
+        - {x: 101.96405, y: -20.547485}
+        - {x: 101.96405, y: 29.452515}
+        - {x: 76.96405, y: 96.452515}
+    - name: EnemyAnimacaoDanoAntiTank_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1503.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 79.96448}
+        - {x: -28.5, y: 79.96448}
+        - {x: -102.5, y: 8.964478}
+        - {x: -102.5, y: -26.035522}
+        - {x: -30.5, y: -100.03552}
+        - {x: 1.5, y: -100.03552}
+        - {x: 49.5, y: -55.035522}
+        - {x: 77.5, y: -13.035522}
+        - {x: 77.5, y: 0.96447754}
+        - {x: 46.5, y: 56.964478}
+    - name: EnemyAnimacaoDanoAntiTank_13
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1503.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.988007, y: 47.964478}
+        - {x: -10.011993, y: 55.964478}
+        - {x: -54.011993, y: 55.964478}
+        - {x: -107.01199, y: 48.964478}
+        - {x: -124.01199, y: -6.0355225}
+        - {x: -124.01199, y: -54.035522}
+        - {x: -53.011993, y: -123.03552}
+        - {x: -22.011993, y: -123.03552}
+        - {x: 19.988007, y: -84.03552}
+        - {x: 54.988007, y: -42.035522}
+        - {x: 54.988007, y: -27.035522}
+        - {x: 29.988007, y: 35.964478}
+    - name: EnemyAnimacaoDanoAntiTank_14
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1503.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.023987, y: 22.964478}
+        - {x: -58.023987, y: 32.964478}
+        - {x: -60.023987, y: 32.964478}
+        - {x: -112.02399, y: 1.9644775}
+        - {x: -146.02399, y: -46.035522}
+        - {x: -146.02399, y: -60.035522}
+        - {x: -114.02399, y: -106.03552}
+        - {x: -60.023987, y: -146.03552}
+        - {x: -52.023987, y: -146.03552}
+        - {x: 31.976013, y: -62.035522}
+        - {x: 31.976013, y: -54.035522}
+        - {x: -5.023987, y: 14.964478}
+    - name: EnemyAnimacaoDanoAntiTank_15
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1503.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.96405, y: 8.964478}
+        - {x: -14.03595, y: 32.964478}
+        - {x: -48.03595, y: 32.964478}
+        - {x: -124.03595, y: -39.035522}
+        - {x: -124.03595, y: -71.03552}
+        - {x: -94.03595, y: -109.03552}
+        - {x: -38.03595, y: -146.03552}
+        - {x: -26.03595, y: -146.03552}
+        - {x: 19.96405, y: -110.03552}
+        - {x: 54.96405, y: -69.03552}
+        - {x: 54.96405, y: -49.035522}
+    - name: EnemyAnimacaoDanoAntiTank_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1002.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.5, y: -58.52356}
+        - {x: -67.5, y: -109.52356}
+        - {x: -34.5, y: -146.52356}
+        - {x: 8.5, y: -146.52356}
+        - {x: 77.5, y: -83.52356}
+        - {x: 77.5, y: -31.52356}
+        - {x: 47.5, y: 13.47644}
+        - {x: 6.5, y: 32.47644}
+        - {x: -25.5, y: 32.47644}
+        - {x: -102.5, y: -52.52356}
+    - name: EnemyAnimacaoDanoAntiTank_17
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1002.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.988007, y: 32.47644}
+        - {x: -78.01199, y: 32.47644}
+        - {x: -78.01199, y: -146.52356}
+        - {x: 18.988007, y: -146.52356}
+        - {x: 69.98801, y: -109.52356}
+        - {x: 101.98801, y: -60.52356}
+        - {x: 101.98801, y: -42.52356}
+        - {x: 84.98801, y: 26.47644}
+    - name: EnemyAnimacaoDanoAntiTank_18
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1002.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87.97601, y: 8.47644}
+        - {x: 43.976013, y: 32.47644}
+        - {x: 33.976013, y: 32.47644}
+        - {x: -17.023987, y: -3.5235596}
+        - {x: -54.023987, y: -50.52356}
+        - {x: -54.023987, y: -59.52356}
+        - {x: -13.023987, y: -114.52356}
+        - {x: 31.976013, y: -146.52356}
+        - {x: 45.976013, y: -146.52356}
+        - {x: 98.97601, y: -112.52356}
+        - {x: 125.97601, y: -61.52356}
+        - {x: 125.97601, y: -49.52356}
+      - - {x: -55.023987, y: 145.47644}
+        - {x: -55.023987, y: 147.47644}
+        - {x: -60.023987, y: 147.47644}
+        - {x: -58.023987, y: 144.47644}
+    - name: EnemyAnimacaoDanoAntiTank_19
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1002.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.03595, y: -55.52356}
+        - {x: -31.03595, y: -63.52356}
+        - {x: 10.96405, y: -112.52356}
+        - {x: 48.96405, y: -146.52356}
+        - {x: 107.96405, y: -146.52356}
+        - {x: 146.96405, y: -142.52356}
+        - {x: 146.96405, y: -2.5235596}
+        - {x: 142.96405, y: 32.47644}
+        - {x: 52.96405, y: 32.47644}
+        - {x: 11.96405, y: 1.4764404}
+      - - {x: -32.03595, y: 145.47644}
+        - {x: -32.03595, y: 147.47644}
+        - {x: -37.03595, y: 147.47644}
+        - {x: -35.03595, y: 144.47644}
+    - name: EnemyAnimacaoDanoAntiTank_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 501.85715
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65.5, y: 44.988434}
+        - {x: 27.5, y: 44.988434}
+        - {x: -43.5, y: -26.011566}
+        - {x: -43.5, y: -58.011566}
+        - {x: 21.5, y: -135.01157}
+        - {x: 60.5, y: -135.01157}
+        - {x: 118.5, y: -111.011566}
+        - {x: 136.5, y: -62.011566}
+        - {x: 136.5, y: -38.011566}
+        - {x: 102.5, y: 23.988434}
+    - name: EnemyAnimacaoDanoAntiTank_21
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 501.85715
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65.98801, y: 55.988434}
+        - {x: 10.988007, y: 55.988434}
+        - {x: -54.011993, y: -5.011566}
+        - {x: -54.011993, y: -53.011566}
+        - {x: 21.988007, y: -123.011566}
+        - {x: 42.988007, y: -123.011566}
+        - {x: 91.98801, y: -85.011566}
+        - {x: 124.98801, y: -37.011566}
+        - {x: 124.98801, y: -22.011566}
+        - {x: 90.98801, y: 42.988434}
+    - name: EnemyAnimacaoDanoAntiTank_22
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 501.85715
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 89.97601, y: 64.988434}
+        - {x: 54.976013, y: 67.988434}
+        - {x: -59.023987, y: 67.988434}
+        - {x: -66.02399, y: 29.988434}
+        - {x: -66.02399, y: -69.011566}
+        - {x: 14.976013, y: -112.011566}
+        - {x: 33.976013, y: -112.011566}
+        - {x: 79.97601, y: -73.011566}
+        - {x: 113.97601, y: -25.011566}
+        - {x: 113.97601, y: -5.011566}
+    - name: EnemyAnimacaoDanoAntiTank_23
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 501.85715
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78.03595, y: -3.0115662}
+        - {x: -78.03595, y: -12.011566}
+        - {x: -11.03595, y: -100.011566}
+        - {x: 32.96405, y: -100.011566}
+        - {x: 101.96405, y: -33.011566}
+        - {x: 101.96405, y: 17.988434}
+        - {x: 70.96405, y: 67.988434}
+        - {x: 19.96405, y: 79.988434}
+        - {x: 5.9640503, y: 79.988434}
+        - {x: -30.03595, y: 54.988434}
+    - name: EnemyAnimacaoDanoAntiTank_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.8571472
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 90.50041}
+        - {x: -90.5, y: 1.500412}
+        - {x: -90.5, y: -0.499588}
+        - {x: -1.5, y: -89.49959}
+        - {x: 0.5, y: -89.49959}
+        - {x: 89.5, y: -0.499588}
+        - {x: 89.5, y: 1.500412}
+        - {x: 0.5, y: 90.50041}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

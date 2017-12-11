@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{CD6EE939-18FC-FFDC-0FC8-C761FEAE29DD}") = "A World in Flames 0.09.9.3", "Assembly-CSharp.csproj", "{EBC6D875-1F71-BEE4-88AF-F18AAD4F54CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBC6D875-1F71-BEE4-88AF-F18AAD4F54CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC6D875-1F71-BEE4-88AF-F18AAD4F54CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC6D875-1F71-BEE4-88AF-F18AAD4F54CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC6D875-1F71-BEE4-88AF-F18AAD4F54CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<MapCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" lines="7" coluns="12">
+  <Tiles>
+    <Tile id="1" mechanic="0" locX="0" locY="0" />
+    <Tile id="1" mechanic="3" locX="0" locY="1" />
+    <Tile id="1" mechanic="3" locX="0" locY="2" />
+    <Tile id="1" mechanic="1" locX="0" locY="3" />
+    <Tile id="1" mechanic="1" locX="0" locY="4" />
+    <Tile id="1" mechanic="3" locX="0" locY="5" />
+    <Tile id="1" mechanic="3" locX="0" locY="6" />
+    <Tile id="1" mechanic="0" locX="1" locY="0" />
+    <Tile id="1" mechanic="0" locX="1" locY="1" />
+    <Tile id="1" mechanic="3" locX="1" locY="2" />
+    <Tile id="1" mechanic="3" locX="1" locY="3" />
+    <Tile id="1" mechanic="3" locX="1" locY="4" />
+    <Tile id="1" mechanic="3" locX="1" locY="5" />
+    <Tile id="1" mechanic="0" locX="1" locY="6" />
+    <Tile id="1" mechanic="0" locX="2" locY="0" />
+    <Tile id="1" mechanic="0" locX="2" locY="1" />
+    <Tile id="1" mechanic="0" locX="2" locY="2" />
+    <Tile id="1" mechanic="3" locX="2" locY="3" />
+    <Tile id="1" mechanic="3" locX="2" locY="4" />
+    <Tile id="1" mechanic="0" locX="2" locY="5" />
+    <Tile id="1" mechanic="0" locX="2" locY="6" />
+    <Tile id="1" mechanic="0" locX="3" locY="0" />
+    <Tile id="1" mechanic="0" locX="3" locY="1" />
+    <Tile id="1" mechanic="0" locX="3" locY="2" />
+    <Tile id="1" mechanic="0" locX="3" locY="3" />
+    <Tile id="1" mechanic="0" locX="3" locY="4" />
+    <Tile id="1" mechanic="0" locX="3" locY="5" />
+    <Tile id="1" mechanic="0" locX="3" locY="6" />
+    <Tile id="1" mechanic="0" locX="4" locY="0" />
+    <Tile id="1" mechanic="0" locX="4" locY="1" />
+    <Tile id="1" mechanic="0" locX="4" locY="2" />
+    <Tile id="1" mechanic="0" locX="4" locY="3" />
+    <Tile id="1" mechanic="0" locX="4" locY="4" />
+    <Tile id="1" mechanic="0" locX="4" locY="5" />
+    <Tile id="1" mechanic="0" locX="4" locY="6" />
+    <Tile id="1" mechanic="0" locX="5" locY="0" />
+    <Tile id="1" mechanic="0" locX="5" locY="1" />
+    <Tile id="1" mechanic="0" locX="5" locY="2" />
+    <Tile id="1" mechanic="0" locX="5" locY="3" />
+    <Tile id="1" mechanic="0" locX="5" locY="4" />
+    <Tile id="1" mechanic="0" locX="5" locY="5" />
+    <Tile id="1" mechanic="0" locX="5" locY="6" />
+    <Tile id="1" mechanic="0" locX="6" locY="0" />
+    <Tile id="1" mechanic="0" locX="6" locY="1" />
+    <Tile id="1" mechanic="0" locX="6" locY="2" />
+    <Tile id="1" mechanic="0" locX="6" locY="3" />
+    <Tile id="1" mechanic="0" locX="6" locY="4" />
+    <Tile id="1" mechanic="0" locX="6" locY="5" />
+    <Tile id="1" mechanic="0" locX="6" locY="6" />
+    <Tile id="1" mechanic="0" locX="7" locY="0" />
+    <Tile id="1" mechanic="0" locX="7" locY="1" />
+    <Tile id="1" mechanic="0" locX="7" locY="2" />
+    <Tile id="1" mechanic="0" locX="7" locY="3" />
+    <Tile id="1" mechanic="0" locX="7" locY="4" />
+    <Tile id="1" mechanic="0" locX="7" locY="5" />
+    <Tile id="1" mechanic="0" locX="7" locY="6" />
+    <Tile id="1" mechanic="0" locX="8" locY="0" />
+    <Tile id="1" mechanic="0" locX="8" locY="1" />
+    <Tile id="1" mechanic="0" locX="8" locY="2" />
+    <Tile id="1" mechanic="0" locX="8" locY="3" />
+    <Tile id="1" mechanic="0" locX="8" locY="4" />
+    <Tile id="1" mechanic="0" locX="8" locY="5" />
+    <Tile id="1" mechanic="0" locX="8" locY="6" />
+    <Tile id="1" mechanic="0" locX="9" locY="0" />
+    <Tile id="1" mechanic="0" locX="9" locY="1" />
+    <Tile id="1" mechanic="0" locX="9" locY="2" />
+    <Tile id="1" mechanic="0" locX="9" locY="3" />
+    <Tile id="1" mechanic="0" locX="9" locY="4" />
+    <Tile id="1" mechanic="0" locX="9" locY="5" />
+    <Tile id="1" mechanic="0" locX="9" locY="6" />
+    <Tile id="1" mechanic="0" locX="10" locY="0" />
+    <Tile id="1" mechanic="0" locX="10" locY="1" />
+    <Tile id="1" mechanic="0" locX="10" locY="2" />
+    <Tile id="1" mechanic="0" locX="10" locY="3" />
+    <Tile id="1" mechanic="0" locX="10" locY="4" />
+    <Tile id="1" mechanic="0" locX="10" locY="5" />
+    <Tile id="1" mechanic="0" locX="10" locY="6" />
+    <Tile id="1" mechanic="0" locX="11" locY="0" />
+    <Tile id="1" mechanic="0" locX="11" locY="1" />
+    <Tile id="1" mechanic="0" locX="11" locY="2" />
+    <Tile id="1" mechanic="0" locX="11" locY="3" />
+    <Tile id="1" mechanic="0" locX="11" locY="4" />
+    <Tile id="1" mechanic="0" locX="11" locY="5" />
+    <Tile id="1" mechanic="0" locX="11" locY="6" />
+  </Tiles>
+  <Units>
+    <Unit id="35" locX="7" locY="2" />
+    <Unit id="35" locX="7" locY="4" />
+  </Units>
+</MapCollection>

@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 77a2fe2dd79e0b444a7ecafab50a0849
+timeCreated: 1481742077
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AlliedAnimacaoDanoCavalry_0
+    21300002: AlliedAnimacaoDanoCavalry_1
+    21300004: AlliedAnimacaoDanoCavalry_2
+    21300006: AlliedAnimacaoDanoCavalry_3
+    21300008: AlliedAnimacaoDanoCavalry_4
+    21300010: AlliedAnimacaoDanoCavalry_5
+    21300012: AlliedAnimacaoDanoCavalry_6
+    21300014: AlliedAnimacaoDanoCavalry_7
+    21300016: AlliedAnimacaoDanoCavalry_8
+    21300018: AlliedAnimacaoDanoCavalry_9
+    21300020: AlliedAnimacaoDanoCavalry_10
+    21300022: AlliedAnimacaoDanoCavalry_11
+    21300024: AlliedAnimacaoDanoCavalry_12
+    21300026: AlliedAnimacaoDanoCavalry_13
+    21300028: AlliedAnimacaoDanoCavalry_14
+    21300030: AlliedAnimacaoDanoCavalry_15
+    21300032: AlliedAnimacaoDanoCavalry_16
+    21300034: AlliedAnimacaoDanoCavalry_17
+    21300036: AlliedAnimacaoDanoCavalry_18
+    21300038: AlliedAnimacaoDanoCavalry_19
+    21300040: AlliedAnimacaoDanoCavalry_20
+    21300042: AlliedAnimacaoDanoCavalry_21
+    21300044: AlliedAnimacaoDanoCavalry_22
+    21300046: AlliedAnimacaoDanoCavalry_23
+    21300048: AlliedAnimacaoDanoCavalry_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: AlliedAnimacaoDanoCavalry_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3006.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -88.5, y: 57.92859}
+        - {x: -90.5, y: 55.92859}
+        - {x: -90.5, y: -52.07141}
+        - {x: -88.5, y: -54.07141}
+        - {x: -47.5, y: -56.07141}
+        - {x: 89.5, y: -56.07141}
+        - {x: 89.5, y: 57.92859}
+    - name: AlliedAnimacaoDanoCavalry_1
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 3006.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -105.01199, y: 72.92859}
+        - {x: -105.01199, y: -38.07141}
+        - {x: -103.01199, y: -40.07141}
+        - {x: 72.98801, y: -40.07141}
+        - {x: 74.98801, y: -38.07141}
+        - {x: 74.98801, y: 72.92859}
+    - name: AlliedAnimacaoDanoCavalry_2
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 3006.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -117.02399, y: 86.92859}
+        - {x: -119.02399, y: 84.92859}
+        - {x: -119.02399, y: -24.071411}
+        - {x: -117.02399, y: -26.071411}
+        - {x: 57.976013, y: -26.071411}
+        - {x: 59.976013, y: -24.071411}
+        - {x: 59.976013, y: 84.92859}
+        - {x: 57.976013, y: 86.92859}
+    - name: AlliedAnimacaoDanoCavalry_3
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 3006.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -133.03595, y: 101.92859}
+        - {x: -135.03595, y: 99.92859}
+        - {x: -135.03595, y: -11.071411}
+        - {x: 44.96405, y: -11.071411}
+        - {x: 44.96405, y: 99.92859}
+        - {x: 42.96405, y: 101.92859}
+    - name: AlliedAnimacaoDanoCavalry_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2505.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.5, y: 117.94055}
+        - {x: -146.5, y: 4.9405518}
+        - {x: 28.5, y: 4.9405518}
+        - {x: 30.5, y: 6.9405518}
+        - {x: 30.5, y: 115.94055}
+        - {x: 28.5, y: 117.94055}
+    - name: AlliedAnimacaoDanoCavalry_5
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 2505.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123.01199, y: 117.94055}
+        - {x: -125.01199, y: 115.94055}
+        - {x: -125.01199, y: 4.9405518}
+        - {x: 54.988007, y: 4.9405518}
+        - {x: 54.988007, y: 115.94055}
+        - {x: 52.988007, y: 117.94055}
+    - name: AlliedAnimacaoDanoCavalry_6
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 2505.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49.976013, y: 122.94055}
+        - {x: -57.023987, y: 122.94055}
+        - {x: -102.02399, y: 117.94055}
+        - {x: -102.02399, y: 6.9405518}
+        - {x: -100.02399, y: 4.9405518}
+        - {x: 75.97601, y: 4.9405518}
+        - {x: 77.97601, y: 6.9405518}
+        - {x: 77.97601, y: 121.94055}
+    - name: AlliedAnimacaoDanoCavalry_7
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 2505.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.96405, y: 120.94055}
+        - {x: -77.03595, y: 117.94055}
+        - {x: -79.03595, y: 115.94055}
+        - {x: -79.03595, y: 6.9405518}
+        - {x: -77.03595, y: 4.9405518}
+        - {x: 99.96405, y: 4.9405518}
+        - {x: 99.96405, y: 120.94055}
+    - name: AlliedAnimacaoDanoCavalry_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2004.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 122.452515}
+        - {x: -55.5, y: 118.452515}
+        - {x: -55.5, y: 5.4525146}
+        - {x: 124.5, y: 5.4525146}
+        - {x: 124.5, y: 118.452515}
+        - {x: 103.5, y: 122.452515}
+    - name: AlliedAnimacaoDanoCavalry_9
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 2004.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.988007, y: 133.45251}
+        - {x: -32.011993, y: 118.452515}
+        - {x: -32.011993, y: 5.4525146}
+        - {x: 146.988, y: 5.4525146}
+        - {x: 146.988, y: 119.452515}
+        - {x: 108.98801, y: 133.45251}
+    - name: AlliedAnimacaoDanoCavalry_10
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 2004.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.976013, y: 113.452515}
+        - {x: 31.976013, y: 112.452515}
+        - {x: -53.023987, y: 95.452515}
+        - {x: -55.023987, y: 94.452515}
+        - {x: -55.023987, y: -18.547485}
+        - {x: 124.97601, y: -18.547485}
+        - {x: 124.97601, y: 96.452515}
+        - {x: 98.97601, y: 113.452515}
+    - name: AlliedAnimacaoDanoCavalry_11
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 2004.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 84.96405, y: 89.452515}
+        - {x: -38.03595, y: 89.452515}
+        - {x: -79.03595, y: 82.452515}
+        - {x: -79.03595, y: -39.547485}
+        - {x: -77.03595, y: -41.547485}
+        - {x: 97.96405, y: -41.547485}
+        - {x: 99.96405, y: -39.547485}
+        - {x: 99.96405, y: 74.452515}
+    - name: AlliedAnimacaoDanoCavalry_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1503.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.5, y: 65.96448}
+        - {x: -81.5, y: 65.96448}
+        - {x: -102.5, y: 62.964478}
+        - {x: -102.5, y: -61.035522}
+        - {x: -100.5, y: -63.035522}
+        - {x: 77.5, y: -63.035522}
+        - {x: 77.5, y: 51.964478}
+        - {x: 76.5, y: 52.964478}
+    - name: AlliedAnimacaoDanoCavalry_13
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1503.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 143.988, y: -107.03552}
+        - {x: 145.988, y: -109.03552}
+        - {x: 146.988, y: -109.03552}
+        - {x: 146.988, y: 3.9644775}
+        - {x: 143.988, y: 2.9644775}
+      - - {x: -48.011993, y: 41.964478}
+        - {x: -125.01199, y: 26.964478}
+        - {x: -125.01199, y: -86.03552}
+        - {x: 54.988007, y: -86.03552}
+        - {x: 54.988007, y: 28.964478}
+        - {x: 12.988007, y: 41.964478}
+    - name: AlliedAnimacaoDanoCavalry_14
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1503.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.976013, y: 23.964478}
+        - {x: -87.02399, y: 23.964478}
+        - {x: -146.02399, y: 3.9644775}
+        - {x: -146.02399, y: -109.03552}
+        - {x: 28.976013, y: -109.03552}
+        - {x: 30.976013, y: -107.03552}
+        - {x: 30.976013, y: 5.9644775}
+    - name: AlliedAnimacaoDanoCavalry_15
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1503.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.96405, y: 15.964478}
+        - {x: -55.03595, y: 15.964478}
+        - {x: -126.03595, y: 4.9644775}
+        - {x: -126.03595, y: -107.03552}
+        - {x: -124.03595, y: -109.03552}
+        - {x: 51.96405, y: -109.03552}
+        - {x: 53.96405, y: -107.03552}
+        - {x: 53.96405, y: 4.9644775}
+    - name: AlliedAnimacaoDanoCavalry_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1002.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 16.47644}
+        - {x: -102.5, y: 4.4764404}
+        - {x: -102.5, y: -107.52356}
+        - {x: -101.5, y: -109.52356}
+        - {x: 77.5, y: -109.52356}
+        - {x: 77.5, y: 7.4764404}
+        - {x: 34.5, y: 16.47644}
+    - name: AlliedAnimacaoDanoCavalry_17
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1002.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76.98801, y: 16.47644}
+        - {x: -41.011993, y: 16.47644}
+        - {x: -78.01199, y: 11.47644}
+        - {x: -78.01199, y: -109.52356}
+        - {x: 100.98801, y: -109.52356}
+        - {x: 100.98801, y: 7.4764404}
+    - name: AlliedAnimacaoDanoCavalry_18
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1002.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99.97601, y: 15.47644}
+        - {x: 21.976013, y: 15.47644}
+        - {x: -55.023987, y: 4.4764404}
+        - {x: -55.023987, y: -109.52356}
+        - {x: 124.97601, y: -109.52356}
+        - {x: 124.97601, y: 5.4764404}
+    - name: AlliedAnimacaoDanoCavalry_19
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1002.8572
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 146.96405, y: 15.47644}
+        - {x: -18.03595, y: 15.47644}
+        - {x: -33.03595, y: 6.4764404}
+        - {x: -33.03595, y: -109.52356}
+        - {x: 146.96405, y: -109.52356}
+    - name: AlliedAnimacaoDanoCavalry_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 501.85715
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 31.988434}
+        - {x: -43.5, y: 22.988434}
+        - {x: -43.5, y: -93.011566}
+        - {x: -42.5, y: -95.011566}
+        - {x: 136.5, y: -95.011566}
+        - {x: 136.5, y: 19.988434}
+        - {x: 100.5, y: 31.988434}
+    - name: AlliedAnimacaoDanoCavalry_21
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 501.85715
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 120.98801, y: 41.988434}
+        - {x: -21.011993, y: 41.988434}
+        - {x: -55.011993, y: 32.988434}
+        - {x: -55.011993, y: -82.011566}
+        - {x: -53.011993, y: -84.011566}
+        - {x: 121.98801, y: -84.011566}
+        - {x: 124.98801, y: -81.011566}
+        - {x: 124.98801, y: 40.988434}
+    - name: AlliedAnimacaoDanoCavalry_22
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 501.85715
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 90.97601, y: 54.988434}
+        - {x: -4.023987, y: 54.988434}
+        - {x: -67.02399, y: 45.988434}
+        - {x: -67.02399, y: -70.011566}
+        - {x: -65.02399, y: -72.011566}
+        - {x: 110.97601, y: -72.011566}
+        - {x: 112.97601, y: -70.011566}
+        - {x: 112.97601, y: 39.988434}
+    - name: AlliedAnimacaoDanoCavalry_23
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 501.85715
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.03595, y: 64.988434}
+        - {x: -79.03595, y: 52.988434}
+        - {x: -79.03595, y: -58.011566}
+        - {x: -77.03595, y: -60.011566}
+        - {x: 97.96405, y: -60.011566}
+        - {x: 99.96405, y: -58.011566}
+        - {x: 99.96405, y: 64.988434}
+    - name: AlliedAnimacaoDanoCavalry_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.8571472
+        width: 501
+        height: 501.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.5, y: 64.50041}
+        - {x: -90.5, y: -45.499588}
+        - {x: -88.5, y: -47.499588}
+        - {x: 87.5, y: -47.499588}
+        - {x: 89.5, y: -45.499588}
+        - {x: 89.5, y: 64.50041}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
